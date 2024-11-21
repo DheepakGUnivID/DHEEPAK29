@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🥇 About Me:
 As I advance in my pursuit of a Master's in Electrical Engineering focusing Networking and Cloud Computing , I bring a rich background as a former Software Engineer at Qualcomm, where I honed my expertise in Wireless, Automation, Modem 5G, and Machine Learning. My passion for cutting-edge technology drives me to continuously expand my knowledge and skills.<br>Throughout my career, I have demonstrated a strong proficiency in Networking and Cloud Computing and have gained extensive experience. My journey is fueled by a relentless curiosity and a commitment to innovation, enabling me to make meaningful contributions in the tech industry.<br>With a solid foundation in software engineering and a deep understanding of emerging technologies, I am excited to explore new opportunities and collaborate on projects that push the boundaries of what's possible. Let's connect and see how we can innovate together!
 
 
-## 🌐 Socials:
+## 😎 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dheepakg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheepak-g/) 
 
 # 💻 Tech Stack:
